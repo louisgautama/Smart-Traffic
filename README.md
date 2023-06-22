@@ -17,7 +17,7 @@ To visualize the dashboard graph, run dasb.py
 
 Note:
 1. Model used in this project is named as best.pt
-   Should a new model be trained, replace the best.pt with the new model and change the model name according to the name of the new model
+   Should a new model be trained, replace the best.pt with the new model and change the model name on detect.py according to the name of the new model
 
 3. As the project was done on Raspberry Pi, pins on the detect.py file would vary depending on the placement of the wires on the raspberry pins.
    Make sure to modify the settings on the file according to the pin placement should there be any difference
