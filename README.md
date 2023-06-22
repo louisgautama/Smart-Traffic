@@ -8,7 +8,7 @@ Project Summary:
 Traffic congestion problems caused by traffic lights stopping the vehicles on pedestrian crossing roads even though there are no pedestrians have been a common problem on busy roads. The project aims to create a fully automated traffic light environment that prevents traffic congestion by detecting if there are pedestrians trying to cross the road using a deep learning based object detection system and a pressure sensor as a double verification system.
 
 
-THe project utilizes MySQL as the local database of the system. Set up the local database and make the necessary changes in detect.py and dasb.py before running the files
+The project utilizes MySQL as the local database of the system. Set up the local database and make the necessary changes in detect.py and dasb.py before running the files
 
 To run this project, run the run.py file
 
