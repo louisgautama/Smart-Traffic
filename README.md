@@ -5,6 +5,7 @@ GitHub Source: https://github.com/ultralytics/yolov5
 This project prototype was done on a Raspberry Pi 4 with 4 GB RAM as the controller.
 
 Project Summary:
+
 Traffic congestion problems caused by traffic lights stopping the vehicles on pedestrian crossing roads even though there are no pedestrians have been a common problem on busy roads. The project aims to create a fully automated traffic light environment that prevents traffic congestion by detecting if there are pedestrians trying to cross the road using a deep learning based object detection system and a pressure sensor as a double verification system.
 
 
